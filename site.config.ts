@@ -2,15 +2,15 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '3f4ccd5bf29245f69d6c43444e3688c6',
+  rootNotionPageId: '61cacdb0ad374ebd9e8e97f1972978fc',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: null,
+  rootNotionSpaceId: '3f4ccd5bf29245f69d6c43444e3688c6',
 
   // basic site info (required)
   name: '碎弦',
-  domain: 'https://9kuai9.notion.site/61cacdb0ad374ebd9e8e97f1972978fc?v=3f4ccd5bf29245f69d6c43444e3688c6',
+  domain: 'https://9kuai9.notion.site/61cacdb0ad374ebd9e8e97f1972978fc',
   author: '碎弦',
 
   // open graph metadata (optional)
