@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '碎弦',
-  domain: 'https://9kuai9.notion.site/f2241f4b6f794894ba292106f26efb58',
+  domain: 'https://nothings.notion.site/f2241f4b6f794894ba292106f26efb58',
   author: '碎弦',
 
   // open graph metadata (optional)
