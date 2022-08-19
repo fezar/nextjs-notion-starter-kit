@@ -19,6 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'fezar',
   github: 'fezar',
+  zhihu:'fezar',
   // linkedin: '#',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
